@@ -1,19 +1,5 @@
-# Tennis-X
-Its a simple javascript based game.
+References used while making the project:
 
-It is a two player game.
-In this game, you play tennis with your partner. 
-The controls and guide on "how to play the game" are provided on the menu page. Please visit them.
-
-Some special features: 
-. You can smash the ball harder to score a point.
-. You can pause the game in between and start a new game if you want.
-. You can move the player in any direction you want.
-. You can strategize by choosing your position, timing and speed.
-. You get to play as Nadal. What else do you want?
-
-________________________________________________________________________________________________
-References:
 . Coding Challenge #3: The Snake Game -The Coding Train
 	https://youtu.be/AaGK-fj-BAM   
 
@@ -33,4 +19,5 @@ References:
 
 . What the heck is the event loop anyway? | Philip Roberts | JSConf EU
 	https://youtu.be/8aGhZQkoFbQ
+
 
